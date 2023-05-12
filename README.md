@@ -55,7 +55,7 @@ ChatGPT是由[OpenAI](https://openai.com/)训练的一款大型语言模型，�
 
 | 直接加群 | 如果前面的过期，加我拉你入群 |
 | :------: | :--------------------------: ||
-| <img src="./pic/weixingroup.png" width="450"/> | <img src="./pic/weixin.png" width="450"/> |
+| <img src="./pic/weixingroup.png" width="300"/> | <img src="./pic/weixin.png" width="300"/> |
 
  
 # 正经指南
