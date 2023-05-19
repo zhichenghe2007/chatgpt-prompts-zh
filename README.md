@@ -11,7 +11,7 @@ ChatGPT是由[OpenAI](https://openai.com/)训练的一款大型语言模型，�
 只需按照README.md文件中的提示输入即可。
 
 
-### **ChatGPT 账号购买-独享： https://chatgptvip.shop/
+### **ChatGPT 账号购买-独享： https://chatgptvip.shop/shop/
 
 ------
 
