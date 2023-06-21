@@ -9,7 +9,7 @@ ChatGPT是由[OpenAI](https://openai.com/)训练的一款大型语言模型，�
 只需按照README.md文件中的提示输入即可。
 
 
-### **ChatGPT 账号购买-独享： https://docs.qq.com/doc/DZGJEYVBhbklIa0hw?u=23e2e15f472c4060ae38ffeb78b05cd2
+### **ChatGPT 账号购买-独享： https://painted-toucan-5e6.notion.site/ChatGpt-30cbb93b65504c90b3aac21b4e9968ea?pvs=4
 
 ------
 
